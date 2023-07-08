@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 <!--
-**257654131/257654131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WearingCucumber/WearingCucumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/blinkfox">
-        <img src="https://img.shields.io/github/stars/257654131.svg?logo=star&label=Total%20Stars&color=success" />
+        <img src="https://img.shields.io/github/stars/WearingCucumber.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
-    <a title="Github Followers" target="_blank" href="https://github.com/257654131">
-        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3D257654131&color=blue&logo=github&longCache=true" />
+    <a title="Github Followers" target="_blank" href="https://github.com/WearingCucumber">
+        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWearingCucumber&color=blue&logo=github&longCache=true" />
     </a>
 </p>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🏆 Profile Trophy
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=257654131&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="WearingCucumber" />
+    <img src="https://github-profile-trophy.vercel.app/?username=WearingCucumber&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="WearingCucumber" />
 </p>
 
 🔨 Skills and Tools
@@ -123,9 +123,9 @@ Here are some ideas to get you started:
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=257654131&count_private=true&show_icons=true" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=WearingCucumber&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=257654131&layout=compact&langs_count=8" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WearingCucumber&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
 
