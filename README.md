@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Hi 👋, I'm WearingCucumber(头戴黄瓜) 🦊</h3>
+<h3 align="center">Hi 👋, I'm WearingCucumber(头戴黄瓜) 🥒</h3>
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/blinkfox">
