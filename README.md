@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">Hi 👋, I'm WearingCucumber(头戴黄瓜) 🥒</h3>
-
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Just Fucking Coding!!!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/blinkfox">
         <img src="https://img.shields.io/github/stars/WearingCucumber.svg?logo=star&label=Total%20Stars&color=success" />
@@ -24,13 +28,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWearingCucumber&color=blue&logo=github&longCache=true" />
     </a>
 </p>
-
-
-
-🏆 Profile Trophy
-
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=WearingCucumber&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="WearingCucumber" />
+ <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />   
 </p>
 
 🔨 Skills and Tools
